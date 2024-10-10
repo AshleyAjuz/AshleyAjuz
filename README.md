@@ -1,4 +1,12 @@
-## Hi there 👋
+💜 About Me
+===========
+
+### Hi there 👋
+
+My name is Ashley Ajuz. I am a Software Engineer at Github currently working with the Authorization team! Ever since taking my first high-school CS class, I've developed a passion for technology and strive to design and develop **efficient** and **reliable** software for everyone. It is also my hope that I can utilize technology to help enhance and facilitate the lives of as many people as possible. I am truly looking forward to growing in my career here at Github and becoming the best engineer that I can be!
+
+💻 If you are interested in getting in touch and/or collaborating on anything, Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/ashleyajuz/)!
+
 
 <!--
 **AshleyAjuz/AshleyAjuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
